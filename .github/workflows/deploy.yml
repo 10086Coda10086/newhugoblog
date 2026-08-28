@@ -34,6 +34,7 @@ jobs:
         run: |
           docker run --rm \
             --user "$(id -u):$(id -g)" \
+            -e HUGO_CACHEDIR=/tmp/hugo_cache \
             -v "$GITHUB_WORKSPACE:/project" \
             -w /project \
             ghcr.io/gohugoio/hugo:v0.165.0 \

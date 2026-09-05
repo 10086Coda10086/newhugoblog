@@ -1,0 +1,7 @@
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:the.tequila.sunset@icloud.com"
+
+    [social.params]
+    icon = "mail"

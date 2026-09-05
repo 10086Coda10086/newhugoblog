@@ -1,5 +1,5 @@
 baseURL = "http://localhost:1313/"
-title = "tequila sunset"
+title = "echo pale"
 locale = "zh-CN"
 defaultContentLanguage = "zh"
 hasCJKLanguage = true
@@ -9,3 +9,19 @@ theme = "hugo-theme-stack"
 
 [params]
 mainSections = ["posts"]
+
+[params.sidebar]
+avatar = "avatar.webp"
+subtitle = "pale"
+
+[params.widgets]
+homepage = [
+    { type = "search" },
+    { type = "archives", params = { limit = 5 } },
+    { type = "categories", params = { limit = 10 } },
+    { type = "tag-cloud", params = { limit = 10 } },
+]
+page = [{ type = "toc" }]
+
+[params.comments]
+enabled = false

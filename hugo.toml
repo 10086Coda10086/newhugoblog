@@ -1,6 +1,9 @@
 baseURL = "http://localhost:1313/"
 title = "tequila sunset"
 locale = "zh-CN"
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+timeZone = "Asia/Shanghai"
 
 theme = "hugo-theme-stack"
 

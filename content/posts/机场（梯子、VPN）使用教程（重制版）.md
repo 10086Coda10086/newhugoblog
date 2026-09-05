@@ -1,63 +1,67 @@
 +++
 date = '2026-09-05T23:54:22+08:00'
 draft = false
-title = 'VPN）使用教程（重制版）'
+title = 'VPN使用教程（重制版）'
+tags = [ "VPN", "clash","shadowshocket"]
+categories = ["说明书"]
+image = "/images/Shadowrocket.png"
+
 +++
 ## iOS/iPadOS 设备教程
 
 1. 登录你的美区Apple ID，如果没有请自行注册，或搜索 **Apple ID共享**，这里是一个可能有用的链接：[https://idshare001.me/goso.html](https://idshare001.me/goso.html)
 
-<img width="1170" height="1223" alt="Image" src="https://github.com/user-attachments/assets/15db4c3f-aac8-4cf0-addc-9b55a24f78a0" />
+![](/images/2701.webp)
 
 2. 搜索 **Clash Mi**（免费） 或**Shadowrocket**并下载（付费）
 
-<img width="1170" height="2463" alt="Image" src="https://github.com/user-attachments/assets/112df1ce-1832-40a9-aaa2-e6beaf8feed6" />
+![](/images/2704.webp)
 
-<img width="1168" height="2409" alt="Image" src="https://github.com/user-attachments/assets/c57c4f87-ed44-462e-a635-ce89e576ed98" />
+![](/images/2702.webp)
 
-<img width="1170" height="2391" alt="Image" src="https://github.com/user-attachments/assets/6b390fdb-5023-4ef1-bddc-a3a40290f887" />
+![](/images/2703.webp)
 
 3. 如果你使用的是**Shadowrocket**，请复制你的订阅链接后，打开应用（可能会索要权限，请给予；可能会要求安装VPN，请允许并输入锁屏密码），点击右上角加号，在剪贴板有订阅链接的情况下，链接会自动填充，此时只要点击右上角保存即可
    
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/50efd424-325d-4dd4-b7d6-9ddb996e3b00" />
+![](/images/2705.webp)
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/d96d86f4-e82c-4e65-8f55-0b8a5bb7dfe4" />
+![](/images/2706.webp)
 
-   若有多个链接，可通过此方法依次添加
+若有多个链接，可通过此方法依次添加
 
-   ---
+---
 
-   如果你使用的是**Clash Mi**，请复制你的订阅链接后，打开应用（可能会索要权限，请给予；可能会要求安装VPN，请允许并输入锁屏密码），点击**我的配置**，然后点击右上角加号，在剪贴板有订阅链接的情况下，点击**从剪贴板导入**链接会自动填充，此时只要点击右上角对钩即可
+如果你使用的是**Clash Mi**，请复制你的订阅链接后，打开应用（可能会索要权限，请给予；可能会要求安装VPN，请允许并输入锁屏密码），点击**我的配置**，然后点击右上角加号，在剪贴板有订阅链接的情况下，点击**从剪贴板导入**链接会自动填充，此时只要点击右上角对钩即可
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/de319880-f6a6-433a-8c80-a28452807abb" />
+![](/images/2707.webp)
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/5d5137dd-b6e1-420f-94a0-4103aee8e01d" />
+![](/images/2708.webp)
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/a6319b74-2b1d-450d-a783-c5af88245b92" />
+![](/images/2709.webp)
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/2c92012b-5ee8-4483-a539-a5e36842e6ae" />
+![](/images/2710.webp)
 
-   若有多个链接，可通过此方法依次添加
+若有多个链接，可通过此方法依次添加
 
 4. 如果你使用的是**Shadowrocket**，在导入完链接之后，就可以点击屏幕上部**未连接**右侧的开关启动VPN的链接*（可能会索要权限，请给予；可能会要求安装VPN，请允许并输入锁屏密码）*，然后点击屏幕上部的**全局路由**选择**代理**选项，回到首页，在所有订阅链接都展开的情况下（不展开的链接默认不检测），点击屏幕上部**连通性测试**进行测速（建议同时打开应用内设置-->向下滚动到**订阅**-->打开**根据ping值排序**开关），然后选择速度与国家合适的节点
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/28d5b10e-c699-4ecc-af2f-d5ba5fda9154" />
+![](/images/2711.webp)
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/7e16f49d-4cdc-4edf-8c22-79e7853e8e27" />
+![](/images/2712.webp)
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/73dc6377-8585-4d75-8062-226acdfea703" />
+![](/images/2713.webp)
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/a470e209-2b59-426a-a771-9c2930ff640b" />
+![](/images/2714.webp)
 
-   ---
+---
 
-   如果你使用的是**Clash Mi**，在导入完链接之后，点击点击屏幕上部**未连接**右侧的开关启动VPN的链接（可能会索要权限，请给予；可能会要求安装VPN，请允许并输入锁屏密码），然后点击屏幕中下部的**代理**，点击屏幕右上角的闪电图标进行测速，并等待测速完成，完成后点击屏幕上部**节点选择**，然后选择速度与国家合适的节点
+如果你使用的是**Clash Mi**，在导入完链接之后，点击点击屏幕上部**未连接**右侧的开关启动VPN的链接（可能会索要权限，请给予；可能会要求安装VPN，请允许并输入锁屏密码），然后点击屏幕中下部的**代理**，点击屏幕右上角的闪电图标进行测速，并等待测速完成，完成后点击屏幕上部**节点选择**，然后选择速度与国家合适的节点
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/488ac85f-671b-459e-b621-d42b1cde770e" />
+![](/images/2715.webp)
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/2bd80996-7005-48fd-841c-f216882bdc64" />
+![](/images/2716.webp)
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/b6afc3d6-d3e9-44a7-b124-8f5b60a631d6" />
+![](/images/2717.webp)
 
 5. 如果你想深入探索上面两个应用，可自行搜索相关知识，同时推荐项目 [[Shadowrocket 使用手册 补完计划](https://lowertop.github.io/Shadowrocket/)](https://lowertop.github.io/Shadowrocket/)，可自行学习。同时推荐该项目的**懒人配置**，在配置页面下载并切换配置，并将全局代理切换为**配置**，效果比**代理**好
 
@@ -69,37 +73,37 @@ title = 'VPN）使用教程（重制版）'
 
 2. 打开**Flclash** 
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/5dc43b11-838e-4e6d-9564-7d437e6e788b" />
+![](/images/2718.webp)
 
 3. 点击下方**配置**
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/bdcd0acd-8dc6-40bd-a720-27937a6d901b" />
+![](/images/2719.webp)
 
 4. 点击下方**添加配置**
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/5884c392-1b22-4435-bb8b-23c0863e2ae9" />
+![](/images/2720.webp)
 
 5. 点击**URL**
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/c7a2494e-5612-48a4-9b46-9fb8cd81d259" />
+![](/images/2721.webp)
 
 6. 输入订阅链接并确定，结果如图2
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/49b48519-e54d-4a32-9793-075c9b80d3d5" />
+![](/images/2722.webp)
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/3b38505e-9372-42e9-bbbb-b4f8f4668940" />
+![](/images/2723.webp)
 
 7. 点击**仪表盘**以回到首页，然后点击右下角三角形按钮以开起VPN（可能会索要权限，请允许）
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/f727a9e8-d2e5-4ee1-9a3e-8439ca3d5e72" />
+![](/images/2724.webp)
 
 8. 点击**代理**，然后点击**延迟测试**以测速，然后选择速度与国家合适的节点
 
-<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/289a7d47-0d46-4bb1-b72d-2ec55ecedff1" />
+![](/images/2725.webp)
 
 ## Windows 设备教程
 
-1. [[下载Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64-setup.exe)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64-setup.exe)，双击安装包并安装（若申请管理员权限则允许），步骤如下
+1. [下载Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64-setup.exe)，双击安装包并安装（若申请管理员权限则允许），步骤如下
 
 - 选择语言（推荐中文简体），点击**OK**
 - 点击**下一步**
@@ -128,7 +132,7 @@ title = 'VPN）使用教程（重制版）'
 
 ## Linux 设备教程（适用于Ubuntu/Debian系）
 
-1. 下载[[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_amd64.deb)](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_amd64.deb)
+1. 下载[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_amd64.deb)
 2. 安装（可双击启动应用商店安装或  `sudo apt install ./Clash Verge_2.5.2_amd64.deb`)
 3. 导入配置文件
 

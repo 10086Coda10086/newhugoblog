@@ -1,0 +1,23 @@
+
+{{- $pages := where site.RegularPages "Section" "posts" -}}
+{{- $pages = sort $pages "Date" "desc" -}}
+{{- $pages = first 20 $pages -}}
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": {{ site.Title | jsonify }},
+  "home_page_url": {{ site.Home.Permalink | jsonify }},
+  "feed_url": {{ printf "%s%s" site.Home.Permalink "rss.json" | jsonify }},
+  "language": {{ site.Language.LanguageCode | default site.Language.Lang | jsonify }},
+  "items": [
+    {{- range $i, $p := $pages }}
+    {{- if $i }},{{ end }}
+    {
+      "id": {{ $p.Permalink | jsonify }},
+      "url": {{ $p.Permalink | jsonify }},
+      "title": {{ $p.Title | jsonify }},
+      "content_html": {{ $p.Content | jsonify }},
+      "date_published": {{ $p.Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }}
+    }
+    {{- end }}
+  ]
+}

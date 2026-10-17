@@ -5,3 +5,12 @@ url = "mailto:the.tequila.sunset@icloud.com"
 
     [social.params]
     icon = "mail"
+
+
+[[social]]
+identifier = "rss"
+name = "RSS"
+url = "/rss.json"
+
+    [social.params]
+    icon = "rss"

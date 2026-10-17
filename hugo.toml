@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://blog.paleecho.site:1313/"
 title = "echo pale"
 locale = "zh-CN"
 defaultContentLanguage = "zh"
@@ -25,3 +25,16 @@ page = [{ type = "toc" }]
 
 [params.comments]
 enabled = false
+
+[mediaTypes."application/feed+json"]
+  suffixes = ["json"]
+
+[outputFormats.JSONFeed]
+  mediaType = "application/feed+json"
+  baseName = "rss"
+  isPlainText = true
+  isHTML = false
+  rel = "alternate"
+
+[outputs]
+  home = ["HTML", "RSS", "JSONFeed"]

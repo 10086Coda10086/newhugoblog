@@ -1,7 +1,6 @@
 
 {{- $pages := where site.RegularPages "Section" "posts" -}}
 {{- $pages = sort $pages "Date" "desc" -}}
-{{- $pages = first 20 $pages -}}
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": {{ site.Title | jsonify }},

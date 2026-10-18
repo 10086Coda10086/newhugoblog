@@ -1,1 +1,15 @@
 favicon = "/icons/icon.ico"
+
+[comments]
+enabled = true
+provider = "waline"
+
+[comments.waline]
+serverURL = "https://waline.paleecho.site/"
+lang = "zh-CN"
+pageview = true
+requiredMeta = ["nick", "mail"]
+placeholder = "留下你的想法……"
+
+[comments.waline.locale]
+admin = "博主"

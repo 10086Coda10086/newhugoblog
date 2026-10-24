@@ -1,7 +1,7 @@
 +++
 date = '2026-10-24T13:11:15+08:00'
 draft = false
-title = '免费应用软件——VIVI'
+title = '免费音乐软件——VIVI'
 tags = ["音乐", "软件推荐","开源软件","Android"]
 categories = ["软件推荐"]
 image = "/images/vivi.webp"

@@ -1,7 +1,7 @@
 +++
 date = '2026-10-24T13:11:15+08:00'
 draft = false
-title = 'Vivi'
+title = '免费应用软件——VIVI'
 tags = ["音乐", "软件推荐","开源软件","Android"]
 categories = ["软件推荐"]
 image = "/images/vivi.webp"
@@ -13,12 +13,12 @@ image = "/images/vivi.webp"
 1. 下载最新版的[vivi安装包](https://github.com/vivizzz007/vivi-music/releases/download/v6.0.9/vivi.apk)
 
 1. 打开后给予基本权限，一路下一步即可
-![](vivi2.jpg)
+![](/images/vivi2.jpg)
 *此处为赞助画面，无视即可*
 
 1. 登录账号，否则无法使用
-![](vivi3.jpg)
-![](vivi4.jpg)
-![](vivi5.jpg)
+![](/images/vivi3.jpg)
+![](/images/vivi4.jpg)
+![](/images/vivi5.jpg)
 
 1. 享受免费的音乐吧

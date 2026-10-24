@@ -29,13 +29,13 @@ image = "/images/bjung.jpg"
 
 ### 你能24小时战斗吗？
 
-{{< bilibili "BV1gv3b6wERF" >}}
+[https://www.bilibili.com/video/BV1gv3b6wERF/?t=2.468458&bvid=BV1gv3b6wERF](https://www.bilibili.com/video/BV1gv3b6wERF/?t=2.468458&bvid=BV1gv3b6wERF)
 
 资本主义先遣服这一块
 
 ### 加油站买的这种“药”，差点毁了我的人生
 
-{{< bilibili "BV12M7B6AEiR" >}}
+[https://www.bilibili.com/video/BV12M7B6AEiR/?t=3.68602&bvid=BV12M7B6AEiR](https://www.bilibili.com/video/BV12M7B6AEiR/?t=3.68602&bvid=BV12M7B6AEiR)
 
 既然我曾谈到OD，那么肯定绕不开一些利弊对吧
 
@@ -43,6 +43,6 @@ image = "/images/bjung.jpg"
 
 ### 一一
 
-{{< bilibili "BV18z411B7mb" >}}
+[https://www.bilibili.com/video/BV12M7B6AEiR/?t=3.68602&bvid=BV12M7B6AEiR](https://www.bilibili.com/video/BV12M7B6AEiR/?t=3.68602&bvid=BV12M7B6AEiR)
 
 猜你想看：《第七天》——余华

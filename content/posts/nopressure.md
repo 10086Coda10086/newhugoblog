@@ -2,8 +2,8 @@
 date = '2026-10-18T15:50:40+08:00'
 draft = true
 title = 'No Pressure'
-tags = ["音乐","每周推荐"]
-categories = ["每周推荐"]
+tags = ["音乐","作品推荐"]
+categories = ["作品推荐"]
 image = "/images/Nopressure.webp"
 +++
 ## 声明
@@ -13,7 +13,7 @@ image = "/images/Nopressure.webp"
 
 其实我真觉得logic和阿姆很像，而且在成名后也都开始关心社会。
 
-这就是下周的[每周推荐](https://blog.paleecho.site/categories/%E6%AF%8F%E5%91%A8%E6%8E%A8%E8%8D%90/)音乐专辑：《No Pressure》，乐评下周再写。
+这就是下周的[作品推荐](https://blog.paleecho.site/categories/%E6%AF%8F%E5%91%A8%E6%8E%A8%E8%8D%90/)音乐专辑：《No Pressure》，乐评下周再写。
 
 {{< bilibili "BV1Xa4y1Z7Hp" >}}
 
